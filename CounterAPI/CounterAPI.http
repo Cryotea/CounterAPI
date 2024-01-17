@@ -1,0 +1,6 @@
+@CounterApi_HostAddress = http://localhost:5023
+
+GET {{CounterApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
